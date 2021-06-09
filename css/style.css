@@ -272,6 +272,10 @@ h1, h2, h3{
     border-radius: .5rem;
 }
 
+.btn_formulario{
+    margin-top: 2rem;
+}
+
 /* FOOTER */
 
 .footer{
